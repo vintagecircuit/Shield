@@ -2,6 +2,5 @@ googletagmanager.com
 google-analytics.com
 doubleclick.net
 static.doubleclick.net
-gstatic.com
 ytimg.com
 i.ytimg.com
