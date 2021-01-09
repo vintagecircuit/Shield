@@ -3,3 +3,4 @@ google-analytics.com
 doubleclick.net
 gstatic.com
 ytimg.com
+i.ytimg.com
