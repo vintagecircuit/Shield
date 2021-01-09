@@ -1,12 +1,5 @@
-go.admjmp.com 
-admjmp.com 
-static.addtoany.com 
 googletagmanager.com
-js.wpnsrv.com
-exoprsdds.com
-cdn.tsyndicate.com
 google-analytics.com
-static.doubleclick.net
 doubleclick.net
-googleads.g.doubleclick.net
 gstatic.com
+ytimg.com
