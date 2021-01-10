@@ -2,3 +2,4 @@ googletagmanager.com
 google-analytics.com
 doubleclick.net
 static.doubleclick.net
+webcache.googleusercontent.com
