@@ -4,6 +4,7 @@ doubleclick.net
 ad.doubleclick.net
 static.doubleclick.net
 googleads.g.doubleclick.net
-googleads.g.doubleclick.net/pagead/
 securepubads.g.doubleclick.net
 webcache.googleusercontent.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
