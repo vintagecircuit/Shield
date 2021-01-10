@@ -3,4 +3,5 @@ google-analytics.com
 doubleclick.net
 static.doubleclick.net
 googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
 webcache.googleusercontent.com
