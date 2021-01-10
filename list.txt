@@ -11,13 +11,8 @@ tpc.googlesyndication.com
 pagead2.googlesyndication.com
 1e100.net
 youtube-ui.l.google.com
-i9.ytimg.com
-i.ytimg.com
 dart.l.doubleclick.net
 r1.sn-p5qlsnrl.googlevideo.com
-i3.ytimg.com
-i1.ytimg.com
-ytimg.com
 gstatic.com
 fonts.gstatic.com
 yt3.ggpht.com
