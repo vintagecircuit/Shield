@@ -1,6 +1,5 @@
 googletagmanager.com
 google-analytics.com
-accounts.google.com
 doubleclick.net
 ad.doubleclick.net
 static.doubleclick.net
