@@ -40,3 +40,5 @@ r5---sn-p5qs7nsr.googlevideo.com
 r6---sn-p5qs7nel.googlevideo.com
 d2nxq2uap88usk.cloudfront.net
 yt3.ggpht.com
+signaler-pa.youtube.com
+lh5.googleusercontent.com
