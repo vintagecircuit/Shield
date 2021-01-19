@@ -7,8 +7,6 @@ googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 pagead.l.doubleclick.net
 webcache.googleusercontent.com
-tpc.googlesyndication.com
-pagead2.googlesyndication.com
 1e100.net
 dart.l.doubleclick.net
 r1.sn-p5qlsnrl.googlevideo.com
@@ -21,3 +19,4 @@ dpm.demdex.net
 tags.tiqcdn.com
 tpc.googlesyndication.com
 pagead2.googlesyndication.com
+googleadservices.com
