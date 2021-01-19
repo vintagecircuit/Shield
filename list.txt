@@ -43,3 +43,4 @@ yt3.ggpht.com
 signaler-pa.youtube.com
 lh5.googleusercontent.com
 dns.google
+dns9.quad9.net
