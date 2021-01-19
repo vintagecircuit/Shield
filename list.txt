@@ -20,3 +20,5 @@ tags.tiqcdn.com
 tpc.googlesyndication.com
 pagead2.googlesyndication.com
 googleadservices.com
+safebrowsing.googleapis.com
+r3---sn-hp57ynes.googlevideo.com
