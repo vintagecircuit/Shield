@@ -14,7 +14,6 @@ youtube-ui.l.google.com
 dart.l.doubleclick.net
 r1.sn-p5qlsnrl.googlevideo.com
 gstatic.com
-yt3.ggpht.com
 ggpht.com
 googleusercontent.com
 mail-ads.google.com
