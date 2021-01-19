@@ -19,3 +19,5 @@ mail-ads.google.com
 monetate.net
 dpm.demdex.net
 tags.tiqcdn.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
