@@ -10,7 +10,6 @@ webcache.googleusercontent.com
 tpc.googlesyndication.com
 pagead2.googlesyndication.com
 1e100.net
-youtube-ui.l.google.com
 dart.l.doubleclick.net
 r1.sn-p5qlsnrl.googlevideo.com
 gstatic.com
@@ -18,3 +17,5 @@ ggpht.com
 googleusercontent.com
 mail-ads.google.com
 monetate.net
+dpm.demdex.net
+tags.tiqcdn.com
