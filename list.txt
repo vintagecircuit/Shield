@@ -42,3 +42,4 @@ d2nxq2uap88usk.cloudfront.net
 yt3.ggpht.com
 signaler-pa.youtube.com
 lh5.googleusercontent.com
+dns.google
