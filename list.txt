@@ -47,7 +47,6 @@ dns9.quad9.net
 bc.googleusercontent.com
 yt.be
 plus.google.com
-i.ytimg.com
 apis.google.com
 accounts.google.com
 payments.youtube.com
