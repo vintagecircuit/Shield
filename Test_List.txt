@@ -1,7 +1,7 @@
 github.githubassets.com
 collector.githubapp.com
 api.github.com
-pf.newegg.com/tracking
+pf.newegg.com
 googletagmanager.com
 ads.pubmatic.com
 b.cdnst.net
