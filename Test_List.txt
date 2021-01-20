@@ -1,0 +1,3 @@
+github.githubassets.com
+collector.githubapp.com
+api.github.com
