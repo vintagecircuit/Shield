@@ -46,3 +46,4 @@ lh4.googleusercontent.com
 dns.google
 dns9.quad9.net
 bc.googleusercontent.com
+yt.be
