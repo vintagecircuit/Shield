@@ -76,3 +76,4 @@ pf.newegg.com
 ads.pubmatic.com
 b.cdnst.net
 googletagservices.com
+gingerlingdesign.innocraft.cloud
