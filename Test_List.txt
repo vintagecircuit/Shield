@@ -1,8 +1,0 @@
-collector.githubapp.com
-api.github.com
-pf.newegg.com
-googletagmanager.com
-ads.pubmatic.com
-b.cdnst.net
-googletagservices.com
-securepubads.g.doubleclick.net
