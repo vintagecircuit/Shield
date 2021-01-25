@@ -79,3 +79,9 @@ googletagservices.com
 gingerlingdesign.innocraft.cloud
 se.monetate.net
 states.newegg.com
+use.typekit.net
+gcache.ghostery.com
+widget.intercom.io
+jwpsrv.com
+jwpcdn.com
+ssqt.io
