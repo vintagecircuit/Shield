@@ -85,3 +85,4 @@ widget.intercom.io
 jwpsrv.com
 jwpcdn.com
 ssqt.io
+prd.jwpltx.com
