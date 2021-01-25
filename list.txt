@@ -86,3 +86,6 @@ jwpsrv.com
 jwpcdn.com
 ssqt.io
 prd.jwpltx.com
+ssl.google-analytics.com
+connect.facebook.net
+platform.twitter.com
