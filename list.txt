@@ -91,3 +91,13 @@ connect.facebook.net
 platform.twitter.com
 qualtrics.com
 lib-us-2.brilliantcollector.com
+js.adsrvr.org
+t.contentsquare.net
+bat.bing.com
+acdn.adnxs.com
+secure.adnxs.com
+us-gmtdmp.mookie1.com
+s.amazon-adsystem.com
+sc-static.net
+s.go-mpulse.net
+a2.adform.net
