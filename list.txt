@@ -101,3 +101,8 @@ s.amazon-adsystem.com
 sc-static.net
 s.go-mpulse.net
 a2.adform.net
+cdn.tsyndicate.com
+js.wpnsrv.com
+exoprsdds.com
+tsyndicate.com
+addtoany.com
