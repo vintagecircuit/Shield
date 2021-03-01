@@ -65,7 +65,6 @@ r1---sn-p5qs7n7d.googlevideo.com
 r1.sn-p5qlsnrl.googlevideo.com
 r1---sn-5uaezn7e.googlevideo.com
 r2---sn-p5qlsndd.googlevideo.com
-r1---sn-5uaezn7e.googlevideo.com/generate_204
 r2---sn-p5qlsnrl.googlevideo.com
 r2---sn-p5qlsnzd.googlevideo.com
 r2---sn-p5qs7n7z.googlevideo.com
@@ -111,6 +110,3 @@ yt.be
 wpnsrv.com
 wizardunstablecommissioner.com
 msgose.com
-youtube.com/api/stats
-youtube.com/ptracking*
-youtube.com/pagead/
