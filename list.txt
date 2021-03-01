@@ -112,4 +112,6 @@ yt.be
 wpnsrv.com
 wizardunstablecommissioner.com
 msgose.com
-i.ytimg.com
+youtube.com/api/stats
+youtube.com/ptracking*
+youtube.com/pagead/
