@@ -66,7 +66,6 @@ r1.sn-p5qlsnrl.googlevideo.com
 r1---sn-5uaezn7e.googlevideo.com
 r2---sn-p5qlsndd.googlevideo.com
 r1---sn-5uaezn7e.googlevideo.com/generate_204
-r1---sn-5uaezn7e.googlevideo.com/generate_204?conn2
 r2---sn-p5qlsnrl.googlevideo.com
 r2---sn-p5qlsnzd.googlevideo.com
 r2---sn-p5qs7n7z.googlevideo.com
