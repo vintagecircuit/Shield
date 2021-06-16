@@ -159,3 +159,4 @@ bmedia.justservingfiles.net
 eu-adsrv.rtbsuperhub.com
 us-east-adsrv.rtbsuperhub.com
 youtube-ui.l.google.com
+googletagmanager.l.google.com
