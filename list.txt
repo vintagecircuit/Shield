@@ -124,3 +124,10 @@ js-sec.indexww.com
 ipapi.tmbi.com
 cdn1.tmbi.com
 hbx.media.net
+poweredby.jads.co
+static.addtoany.com
+a.realsrv.com
+syndication.realsrv.com
+fluidplayer.com
+jsdelivr.net
+d2j042cj1421wi.cloudfront.net
