@@ -146,3 +146,10 @@ lcdn.tsyndicate.com
 pxl.tsyndicate.com
 roomimg.stream.highwebmedia.com
 static-assets.highwebmedia.com
+ajax.cloudflare.com
+cdn.eplayassets.com
+dat.its-up.com
+freychang.fun
+images.eplay.com
+sandmyre.club
+tour.eplay.com
