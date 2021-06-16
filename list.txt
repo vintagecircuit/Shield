@@ -156,3 +156,6 @@ tour.eplay.com
 cdn30303425.ahacdn.me
 hdr.tchxd.com
 bmedia.justservingfiles.net
+eu-adsrv.rtbsuperhub.com
+us-east-adsrv.rtbsuperhub.com
+youtube-ui.l.google.com
