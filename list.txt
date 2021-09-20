@@ -204,3 +204,6 @@ hazelnutshighs.com
 nomorepecans.com
 cdn.popcash.net
 popcash.net
+intelligenceadx.com
+cdn2.popcash.net
+*.popcash.net
