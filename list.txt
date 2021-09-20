@@ -207,3 +207,12 @@ popcash.net
 intelligenceadx.com
 cdn2.popcash.net
 *.popcash.net
+metcon.hulu.com
+vortex.hulu.com
+tags.tiqcdn.com
+ib2.hulu.com
+ad.doubleclick.net
+cdn-gl.imrworldwide.com
+dpm.demdex.net
+sb.scorecardresearch.com
+hulu.hb.omtrdc.net
