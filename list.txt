@@ -196,3 +196,9 @@ ackcdn.net
 rpc-php.trafficfactory.biz
 cdn.bncloudfl.com
 nomorepecans.com
+security-master-app.com
+adsco.re
+c.adsco.re
+dcba.popcash.net
+hazelnutshighs.com
+nomorepecans.com
