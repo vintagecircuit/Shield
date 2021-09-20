@@ -189,3 +189,5 @@ cdn.mxpnl.com
 googletagservices.com
 newrelic.com
 olark.com
+rpc-php.trafficfactory.biz
+iwanttodeliver.com
