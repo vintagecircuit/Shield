@@ -194,3 +194,5 @@ iwanttodeliver.com
 banners-hw.trafficfactory.biz
 ackcdn.net
 rpc-php.trafficfactory.biz
+cdn.bncloudfl.com
+nomorepecans.com
