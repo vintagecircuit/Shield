@@ -206,7 +206,7 @@ cdn.popcash.net
 popcash.net
 intelligenceadx.com
 cdn2.popcash.net
-*.popcash.net
+popcash.net
 metcon.hulu.com
 vortex.hulu.com
 tags.tiqcdn.com
