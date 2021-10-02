@@ -229,8 +229,7 @@ directv.com
 uctalk.com
 teamviewer.com
 periscope.com
-alibaba.com
 taobao.com
 dailymotion.com
 bittorrent.com
-m.alibaba.com
+*.alibaba.com
