@@ -85,7 +85,6 @@ r6---sn-5ualdn7s.googlevideo.com
 r6---sn-p5qs7nel.googlevideo.com
 s.amazon-adsystem.com
 s.go-mpulse.net
-safebrowsing.googleapis.com
 sc-static.net
 se.monetate.net
 secure.adnxs.com
