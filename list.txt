@@ -236,3 +236,8 @@ m.alibaba.com
 alibaba.com
 offer.alibaba.com
 akamaiedge.net
+alibaba.com.gds.alibabadns.com
+alibaba.com.edgekey.net
+e11983.x.akamaiedge.net
+s.alicdn.com.gds.alibabadns.com
+alibaba.com.edgekey.net
