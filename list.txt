@@ -28,7 +28,6 @@ doubleclick.net
 dpm.demdex.net
 exoprsdds.com
 families.google.com
-fonts.googleapis.com
 gcache.ghostery.com
 ggpht.com
 gingerlingdesign.innocraft.cloud
